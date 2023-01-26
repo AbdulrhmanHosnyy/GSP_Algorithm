@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/Studies/Projects/Big Projects/GSP_ALgorithm/main.cpp
+iostream
+-
+string
+-
+bits/stdc++.h
+-
+
